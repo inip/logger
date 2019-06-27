@@ -1,6 +1,6 @@
 # INIP Logger
 
-## Logging module for inip projects
+## Logging module
 
 ## Quick Start
 
